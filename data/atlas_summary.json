@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "source": "GOV.UK Search API (document types: research, independent_report)",
+    "source_url": "https://www.gov.uk/api/search.json",
+    "licence": "Open Government Licence v3.0",
+    "n_publications": 1770,
+    "classification_note": "Labels are assigned from each publication's title and description (its own declared framing), by a locally hosted open-weights model, not from a reading of the full report.",
+    "year_range": [
+      "1996",
+      "2026"
+    ]
+  },
+  "evaluation_type": {
+    "impact": 886,
+    "process": 391,
+    "mixed": 139,
+    "feasibility": 108,
+    "economic": 91,
+    "unclear": 88,
+    "evidence_synthesis": 67
+  },
+  "method_signal": {
+    "unstated": 1583,
+    "qualitative": 60,
+    "survey_monitoring": 50,
+    "mixed_methods": 20,
+    "rct": 19,
+    "quasi_experimental": 17,
+    "economic_model": 17,
+    "theory_based": 4
+  },
+  "method_declared_rate": 0.1056,
+  "top_commissioners": [
+    [
+      "Department for International Development",
+      304
+    ],
+    [
+      "Department for Education",
+      282
+    ],
+    [
+      "Department for Work and Pensions",
+      160
+    ],
+    [
+      "Ministry of Justice",
+      85
+    ],
+    [
+      "Department for Culture, Media and Sport",
+      78
+    ],
+    [
+      "Department for Transport",
+      77
+    ],
+    [
+      "Department for Energy Security and Net Zero",
+      74
+    ],
+    [
+      "Home Office",
+      72
+    ],
+    [
+      "HM Revenue & Customs",
+      60
+    ],
+    [
+      "Ministry of Housing, Communities and Local Government",
+      57
+    ],
+    [
+      "Department for Business, Innovation & Skills",
+      57
+    ],
+    [
+      "Department for Science, Innovation and Technology",
+      56
+    ],
+    [
+      "Department for Business, Energy & Industrial Strategy",
+      52
+    ],
+    [
+      "Department for Digital, Culture, Media & Sport",
+      51
+    ],
+    [
+      "Department for Business and Trade",
+      35
+    ]
+  ],
+  "by_year": {
+    "1996": 2,
+    "1997": 7,
+    "1998": 17,
+    "1999": 7,
+    "2000": 6,
+    "2001": 2,
+    "2002": 4,
+    "2003": 4,
+    "2004": 26,
+    "2005": 17,
+    "2006": 25,
+    "2007": 21,
+    "2008": 20,
+    "2009": 15,
+    "2010": 64,
+    "2011": 95,
+    "2012": 62,
+    "2013": 108,
+    "2014": 91,
+    "2015": 78,
+    "2016": 88,
+    "2017": 99,
+    "2018": 85,
+    "2019": 48,
+    "2020": 51,
+    "2021": 62,
+    "2022": 79,
+    "2023": 136,
+    "2024": 110,
+    "2025": 239,
+    "2026": 102
+  }
+}
