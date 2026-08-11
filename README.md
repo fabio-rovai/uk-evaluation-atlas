@@ -1,5 +1,7 @@
 # UK Government Evaluation Evidence Atlas
 
+[![Sponsor](https://img.shields.io/github/sponsors/fabio-rovai?label=Sponsor&logo=GitHub%20Sponsors&logoColor=EA4AAA&color=EA4AAA)](https://github.com/sponsors/fabio-rovai)
+
 An open, classified atlas of **1,770** UK government evaluation publications,
 harvested from the GOV.UK Search API and labelled by evaluation type and
 declared method. A map of what government evaluates, who commissions it, and how
@@ -49,3 +51,9 @@ python3 scripts/build_atlas.py
 Contains public sector information licensed under the Open Government Licence
 v3.0. Independent, self-initiated open research by
 [Tesseract Academy](https://gov.tesseract.academy).
+
+---
+
+## Sponsor
+
+If this work is useful to you, you can support its continued development through [GitHub Sponsors](https://github.com/sponsors/fabio-rovai).
